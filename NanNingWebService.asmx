@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="NanNingWebService.asmx.cs" Class="NanNingWebServiceSpace.NanNingWebService" %>
