@@ -14,6 +14,7 @@ namespace NanNingWebServiceSpace
     /// <summary>
     /// Service1 的摘要说明
     /// </summary>
+    //在git这里写代码真是疯了
     [WebService(Namespace = "http://tempuri.org/")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
